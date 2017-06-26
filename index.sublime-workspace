@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getEleem",
+				"getElementsByClassName"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"Gem",
+				"Gem"
+			],
+			[
+				"formatted",
+				"formattedContact"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"wor",
+				"work_description"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"work",
+				"work"
+			],
+			[
+				"image",
+				"images_src"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-muted"
+			],
+			[
+				"te",
+				"text-muted"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: Install",
+		"selected_items":
+		[
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/ud989-todo-app/js/app.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/ud989-todo-app/bower_components/jquery/jquery.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Cat-Clicker/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Cat-Clicker/js/app.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Cat-Clicker/js/app-old.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Cat-Clicker/js/jQuery.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/ud989-school-attendance/js/app.js",
+		"/C/WINDOWS/system32/http",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/AJAX Project/minicourse-ajax-project/js/script.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/.git/COMMIT_EDITMSG",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/AJAX Project/minicourse-ajax-project/index.html",
+		"/C/Program Files (x86)/Bethesda Softworks/Pirates of the Caribbean/Build Info.txt",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/dist/views/js/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/src/views/js/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/views/js/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio2/src/views/js/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio2/dist/views/js/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/README.md",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/.git/COMMIT_EDITMSG",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/README.md",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/views/css/style.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/src/views/css/bootstrap-grid.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/views/css/bootstrap-grid.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/css/print.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/css/style.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/views/pizza.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/loganbrick.github.io/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/project-2048.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/Optimized Content Temp Folder/Pizzaria/js/main.js",
+		"/C/Users/lbrick/AppData/Local/Temp/7zOCA0C9BE4/bootstrap-grid.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Website Optimization/frontend-nanodegree-mobile-portfolio/index_PreMinified.html",
+		"/C/Users/lbrick/Desktop/meta",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Forced Synchronous Layout/loganbrick.github.io/js/main.js",
+		"/C/Users/lbrick/AppData/Local/Temp/7zOC709B74B/meta",
+		"/C/Users/lbrick/Desktop/gamestate",
+		"/C/Users/lbrick/Documents/Paradox Interactive/Stellaris/save games/highkingdomofveltaria_-174172393/meta.sav",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Compositing and Painting/news-aggregator/styles/app.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/Web Workers/loganbrick.github.io/scripts/image-app.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/Web Workers/loganbrick.github.io/scripts/worker.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/qrcode/qrcode/app/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/qrcode/qrcode/app/scripts/jsqrcode/qrworker.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/qrcode/qrcode/app/scripts/qrclient.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/qrcode/qrcode/app/scripts/main.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/JavaScript/qrcode/scripts/main.min.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Optimizing the CRP/Final Project/frontend-nanodegree-mobile-portfolio/.git/COMMIT_EDITMSG",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Optimizing the CRP/Final Project/frontend-nanodegree-mobile-portfolio/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Optimizing the CRP/Final Project/frontend-nanodegree-mobile-portfolio/index_PreMinified.html",
+		"/C/Users/lbrick/Downloads/MANIFEST",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Optimizing the CRP/Final Project/frontend-nanodegree-mobile-portfolio/css/style.css",
+		"/C/Users/lbrick/Downloads/Mr.Robot.S01E07.720p.HDTV.x264-KILLERS[rarbg]/RARBG.com.txt",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/js/engine.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/README.md",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/js/app.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/js/resources.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/.git/COMMIT_EDITMSG",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Arcade Game/frontend-nanodegree-arcade-game/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/frontend-nanodegree-resume/js/helper.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/frontend-nanodegree-resume/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/frontend-nanodegree-resume/css/style.css",
+		"/C/Users/lbrick/Documents/DOCUMENT.oneshot.txt",
+		"/E/Steam Library/steamapps/common/OneShot/CREDITS.txt",
+		"/E/Steam Library/steamapps/common/OneShot/README.txt",
+		"/C/Program Files (x86)/ScreenBloom/README.txt",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/frontend-nanodegree-resume/README.md",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/C/Users/lbrick/Downloads/OldPeopleVsBabies.xml",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume-master/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume-master/js/helper.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume-master/js/jQuery.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Javascript Basics/frontend-nanodegree-resume/js/jQuery.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Portfolio Site/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Portfolio Site/css/styles.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-3-Solution/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Web Design Fundamentals/Common Responsive Patterns/Start/main.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-3-Solution/css/main.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-1-Start/css/main.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Box Model and Semantic Elements Problem Set/Div Soup/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-3-Start/package.json",
+		"/C/Users/lbrick/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/lbrick/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-1-Start/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-1-Start/Gruntfile.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-1-Start/node_modules/grunt-responsive-images/Gruntfile.js",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Images/Project-Part-1-Start/README.md",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Web Design Fundamentals/Common Responsive Patterns/pattern-mostly-fluid-quiz-blankcss.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Responsive Web Design Fundamentals/Common Responsive Patterns/Start/index.html",
+		"/C/END",
+		"/C/Games/Nexus Mod Manager/Fallout4/Install Info/Scripted/Full Dialogue Interface - All languages - NMM installer - Beta12-1235-Beta12.xml",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/Bootstrap and Other Frameworks/portfolio/bootstrap/bootstrap-prestructure.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/Bootstrap and Other Frameworks/portfolio/bootstrap/bootstrap-prestructure/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/portfolio/framework/test.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/portfolio/framework/css/main.css",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/HTML CSS and Boxes/Portfolio/toplist/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/Intro to HTML and CSS/HTML CSS and Boxes/Portfolio/toplist/style.css",
+		"/C/Users/lbrick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/How to Write Code Faster/keyboard-shortcuts/start.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/CSS Syntax Problem Set/writing-selectors/index.html",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/reflections/lesson_3_reflections.txt",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/CSS Syntax Problem Set/link-to-a-stylesheet/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Quizzes/How to Write Code Faster/practice-keyboard-shortcuts/index.html",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/create-your-own-adventure/english/LoveLive/lovelive.md",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/recipes/cake-recipe.txt",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/recipes/.git/COMMIT_EDITMSG",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/recipes/chili-recipe.txt",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/reflections/.git/COMMIT_EDITMSG",
+		"/C/Users/lbrick/.gitconfig",
+		"/C/Users/lbrick/.bash_profile",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/recipes/Basghetti.txt",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/git-completion.bash",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Mockup to Article/frontend-mockup-to-article-master (1)/frontend-mockup-to-article-master/mockup-to-article/index.html",
+		"/E/Google Drive/Udacity/Front-End Web Development/Projects/Mockup to Article/frontend-mockup-to-article-master (1)/frontend-mockup-to-article-master/mockup-to-article/reflections.txt",
+		"/C/Users/lbrick/Desktop/.bash_profile",
+		"/E/Google Drive/Udacity/How to Use Git and GitHub/version-control/reflections/lesson_3_reflections",
+		"/E/Udacity/Front-End Web Development/Quizzes/HTML Syntax Problem Set/figures/figures/index.html",
+		"/E/Udacity/Front-End Web Development/Quizzes/HTML Syntax Problem Set/webdevblog/web-dev-blog/index.html",
+		"/E/Udacity/Front-End Web Development/temp/scratch.htm",
+		"/E/Udacity/Front-End Web Development/Quizzes/HTML Syntax Problem Set/trees/tree-to-html/index.html",
+		"/E/Udacity/Front-End Web Development/Quizzes/HTML Syntax Problem Set/lists/lists/index.html",
+		"/E/Udacity/Front-End Web Development/Quizzes/HTML Syntax Problem Set/headers/index.html",
+		"/C/Users/lbrick/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/Default.sublime-package",
+		"/C/Users/lbrick/Desktop/html.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/HTML.sublime-package"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getElementByID",
+			"getElement",
+			"querySelector",
+			"floor",
+			"determineDx",
+			"determine",
+			"math.sin",
+			"determineDx",
+			"resize",
+			"imageDecoder",
+			"imageDcoder",
+			"qrcodemana",
+			"qrcode",
+			"setInterval",
+			"setinterva",
+			"worker",
+			"1",
+			"sprite",
+			"char-boy",
+			"grass",
+			"console",
+			"orange",
+			"red",
+			"orange",
+			"red",
+			"orange",
+			"mapBounds",
+			"  {\n    \"employer\": \"Planet Express\",\n    \"title\": \"Delivery Boy\",\n    \"dates\": \"January 3000 - Future\",\n    \"description\": \"Picked things up and put them down elsewhere.\"\n  },",
+			"container",
+			"_",
+			"header_description",
+			"_",
+			"work_description",
+			"work_image",
+			"work_entire",
+			"text_muted",
+			"text_thin",
+			"portfolio_banner",
+			"header_divide",
+			"header_subtitle",
+			"header_title",
+			"header_logo",
+			"_",
+			"work_image",
+			"article_picture",
+			"work_description",
+			"feature_description",
+			"feature_desc",
+			"work",
+			"col-s",
+			"text-thin",
+			"text-muted",
+			"TODO",
+			"class",
+			"\n      ",
+			"        <div class=\"col-md-6\"></div>\n",
+			"div",
+			"        <div class=\"col-md-6\"></div>\n",
+			"}",
+			"nav",
+			"main",
+			">\n",
+			"\">\n",
+			"Pellentesque",
+			"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Keyboard Shortcuts - Practice</title>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/main.css\" media=\"screen\">\n    <style>\n        body {\n            padding: 0 20px 0 20px;\n        }\n    </style>\n</head>\n<body>\n    <h1>HTML Ipsum Presents</h1>\n           \n    <p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href=\"#\">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>\n\n    <h2>Header Level 2</h2>\n               \n    <ol>\n       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>\n       <li>Aliquam tincidunt mauris eu risus.</li>\n    </ol>\n\n    <blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>\n\n    <h3>Header Level 3</h3>\n\n    <ul>\n       <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>\n       <li>Aliquam tincidunt mauris eu risus.</li>\n    </ul>\n\n    <pre><code>\n    #header h1 a { \n        display: block; \n        width: 300px; \n        height: 80px; \n    }\n    </code></pre>\n</body>\n</html>",
+			"resemble",
+			"styles",
+			"css",
+			"styles",
+			"-->\n",
+			"lbrick",
+			"tab"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"requestAnimationFrame",
+			"red",
+			"header-description",
+			"work-description",
+			"work-image",
+			"work-entire",
+			"text-muted",
+			"text-thin",
+			"portfolio-banner",
+			"header-divide",
+			"header-subtitle",
+			"header-title",
+			"header-logo",
+			"-",
+			"work_image",
+			"",
+			"work_description"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
